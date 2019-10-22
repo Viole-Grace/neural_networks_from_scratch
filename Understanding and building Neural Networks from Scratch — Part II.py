@@ -163,3 +163,5 @@ def train(x, epochs=20, batch_size=64):
 
 pred = train(X,10,32)
 
+# Training Accuracy : 0.9894
+# Testing Accuracy : 0.9648
